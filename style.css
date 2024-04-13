@@ -4,6 +4,9 @@
     font-family: Arial, Helvetica, sans-serif;
     border: border-box;
 }
+body::-webkit-scrollbar{
+    display: none;
+}
 
 option{
     font-weight: 600;
